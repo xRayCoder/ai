@@ -1,0 +1,2 @@
+model_checkpoint_path: "handwriting_dnn.ckpt"
+all_model_checkpoint_paths: "handwriting_dnn.ckpt"
